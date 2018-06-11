@@ -4,4 +4,4 @@ project
 
 
 
-lets first decide to use technologies in this file
+lets first decide which technologies to use in this file
